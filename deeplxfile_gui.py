@@ -1,7 +1,6 @@
 import subprocess
 import os
 import time
-import requests
 import json
 import sys
 from concurrent.futures import ThreadPoolExecutor
